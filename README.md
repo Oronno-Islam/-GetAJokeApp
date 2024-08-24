@@ -1,2 +1,2 @@
 # -GetAJokeApp
-Given a name this app will give you a joke
+This app will request a name and give a random joke from JokeAPI.
